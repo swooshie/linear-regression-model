@@ -1,3 +1,5 @@
+### Linear Regression Model
+
 For my Linear Regression model project, I used the Housing dataset to predict property prices based on various features like square footage, number of rooms, and location. To optimize the performance of the model, I explored multiple loss functions:
 
 Squared Loss Function (L2 loss): I implemented this to minimize the sum of squared differences between predicted and actual values. This loss function is sensitive to outliers, as it penalizes larger errors more heavily, making it ideal when large deviations are particularly costly.
