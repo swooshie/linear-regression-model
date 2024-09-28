@@ -12,4 +12,4 @@ By comparing the model's performance under each loss function, the trade-offs be
 
 Conclusion
 
-R2 score for Linear Regression Problem in Python displayed results closer to 0.98, 0.91, and 0.85 for Squared, Absolute, and Infinite loss functions respectively, and observed how the line fits and reacts to outliers to each loss function![image](https://github.com/user-attachments/assets/bc5c5fb5-73cd-4590-93ec-4b5defb7a83d)
+R2 score for Linear Regression Problem in Python displayed results closer to 0.98, 0.91, and 0.85 for Squared, Absolute, and Infinite loss functions respectively, and observed how the line fits and reacts to outliers to each loss function
